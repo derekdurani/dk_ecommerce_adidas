@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "975080243085",
+    "firebase_url": "https://dkecommerceadidas.firebaseio.com",
+    "project_id": "dkecommerceadidas",
+    "storage_bucket": "dkecommerceadidas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975080243085:android:894c4c79d4df726e",
+        "android_client_info": {
+          "package_name": "com.example.dk_ecommerce_adidas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975080243085-v3lair1h3ps1dtqdbl0665g8jad9nefu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dk_ecommerce_adidas",
+            "certificate_hash": "1f8e3bab25312a8e267f2ccb08b1ef629fbd58cf"
+          }
+        },
+        {
+          "client_id": "975080243085-bma12jav0hmj22iho0lf5hu3oifsrhgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcaQGMkvjclCKa5sEI_h4XGMpUGgfpaEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975080243085-bma12jav0hmj22iho0lf5hu3oifsrhgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
